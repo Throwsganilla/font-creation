@@ -1,0 +1,6 @@
+{
+  "name": "Font Packager",
+  "description": "A tool to technically analyze fonts and generate downloadable TTF/OTF packages for native OS installation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
